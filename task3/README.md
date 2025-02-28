@@ -10,4 +10,4 @@ After understanding these formats, I analyzed the **riscv-objdump** output of my
 2. **Matching each instruction** to its respective format (**R, I, S, B, U, or J**).  
 3. **Decoding the 32-bit binary representation** to understand how different fields are structured within each instruction.  
 
-This analysis provided valuable insights into how **RISC-V instructions** are encoded and executed at the **assembly and machine code level**. 🚀  
+This analysis provided valuable insights into how **RISC-V instructions** are encoded and executed at the **assembly and machine code level**. 

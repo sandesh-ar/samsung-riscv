@@ -23,4 +23,4 @@ To ensure the functional correctness of a **RISC-V Core**, a **functional simula
 - Identify and debug any discrepancies to ensure correctness.  
 
 ## Outcome  
-Successfully performing this **functional simulation** provides a clear validation of the **RISC-V Core’s behavior**, ensuring that it executes instructions as expected before moving to hardware implementation. 🚀  
+Successfully performing this **functional simulation** provides a clear validation of the **RISC-V Core’s behavior**, ensuring that it executes instructions as expected before moving to hardware implementation.
